@@ -562,7 +562,8 @@ $constStr = [
         'ar-sa' => 'الصورة الأصلية',
     ],
     'CopyAllDownloadUrl' => [
-        'en-us' => 'CopyAllDownloadUrl',
+        'pt-br' => 'Copiar Todos os Links',
+        'en-us' => 'Copiar Todos os Links',
         'zh-cn' => '复制所有下载链接',
         'zh-tw' => '複製所有下載連結',
         'ja' => 'すべてのダウンロードリンクをコピー',
