@@ -913,6 +913,7 @@ $constStr = [
         'ar-sa' => 'دليل أو اسم الملف يحتوي على تحميل فشلت',
     ],
     'defaultSitename' => [
+        'pt-br' => 'NUVEM',
         'en-us' => 'NUVEM',
     ],
     'SavingToken' => [
