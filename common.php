@@ -1103,7 +1103,7 @@ function EnvOpt($needUpdate = 0)
     //foreach ($EnvConfigs as $env => $v) if (isCommonEnv($env)) $envs .= '\'' . $env . '\', ';
     $envs = substr(json_encode(array_keys ($EnvConfigs)), 1, -1);
 
-    $html = '<title>OneManager '.getconstStr('Setup').'</title>';
+    $html = '<title>NUVEM '.getconstStr('Setup').'</title>';
     if (isset($_POST['updateProgram'])&&$_POST['updateProgram']==getconstStr('updateProgram')) {
         $response = setConfigResponse(OnekeyUpate($_POST['auth'], $_POST['project'], $_POST['branch']));
         if (api_error($response)) {
