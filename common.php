@@ -2334,7 +2334,7 @@ function render_list($path = '', $files = [])
 
         $keywords = $n_path;
         if ($p_path!='') $keywords .= ', ' . $p_path;
-        if ($_SERVER['sitename']!='OneManager') $keywords .= ', ' . $_SERVER['sitename'] . ', OneManager';
+        if ($_SERVER['sitename']!='OneManager') $keywords .= ', ' . $_SERVER['sitename'] . ', NUVEM';
         else $keywords .= ', OneManager';
         $html = str_replace('<!--Keywords-->', $keywords, $html);
 
