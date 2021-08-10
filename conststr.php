@@ -671,6 +671,7 @@ $constStr = [
         'ar-sa' => 'ابلود',
     ],
     'UploadFile' => [
+        'pt-bt' => 'Enviar Arquivo(s)',
         'en-us' => 'Upload File(s)',
         'zh-cn' => '上传文件',
         'zh-tw' => '上傳文件',
@@ -689,6 +690,7 @@ $constStr = [
         'ar-sa' => 'تحميل ملف',
     ],
     'FileSelected' => [
+        'pt-br' => 'Selecione o arquivo',
         'en-us' => 'Select File',
         'zh-cn' => '选择文件',
         'zh-tw' => '選擇文件',
@@ -698,6 +700,7 @@ $constStr = [
         'ar-sa' => 'اختر ملف',
     ],
     'NoFileSelected' => [
+        'pt-br' => 'Nenhum arquivo selecionado',
         'en-us' => 'Not Select File',
         'zh-cn' => '没有选择文件',
         'zh-tw' => '沒有選擇文件',
@@ -707,6 +710,7 @@ $constStr = [
         'ar-sa' => 'لا يوجد ملف محدد',
     ],
     'Submit' => [
+        'pt-br' => 'Submeter',
         'en-us' => 'Submit',
         'zh-cn' => '确认',
         'zh-tw' => '確認',
